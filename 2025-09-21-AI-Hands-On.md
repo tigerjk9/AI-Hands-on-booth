@@ -1,8 +1,6 @@
 ---
 title: "즐거운 AI Hands-On 부스 운영을 위한 웹앱 6선"
 date: 2025-09-21 22:14:00 +0900
-categories: [AI, WebApp]
-tags: [학교축제, 기관부스운영, AI체험, 체험부스, HandsOn, HCI]
 ---
 
 ## 즐거운 AI Hands-On 부스 운영을 위한 웹앱 6선
