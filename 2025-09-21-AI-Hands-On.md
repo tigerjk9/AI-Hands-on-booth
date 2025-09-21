@@ -59,5 +59,6 @@ date: 2025-09-21 22:14:00 +0900
 
 위의 모든 앱들을 하나의 페이지에서 편리하게 이용할 수 있습니다.
 
-- **방문하기:** [https://ai-hands-on-booth.netlify.app/](https://ai-hands-on-booth.netlify.app/)<br>
+- **방문하기:** [https://ai-hands-on-booth.netlify.app/](https://ai-hands-on-booth.netlify.app/)
+
 ![즐거운 AI Hands-On 부스 운영을 위한 웹앱](/assets/AI-hands-on.png)
